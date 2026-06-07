@@ -1,0 +1,1 @@
+# Operator: An operator is a symbol that performs an operation on one or more operands (values or variables), such as arithmetic, comparison, logical, and assignment operations.
