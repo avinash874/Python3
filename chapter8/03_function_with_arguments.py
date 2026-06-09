@@ -5,3 +5,9 @@ def goodDay(name, ending):
 
 a = goodDay("Harry", "Thank you") 
 print(a)
+
+# def greet(name):
+#     gr = "hello, " + name
+#     return gr
+# a=greet("Avinash ")
+# print(a)
