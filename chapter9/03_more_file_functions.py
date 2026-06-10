@@ -1,4 +1,4 @@
-f = open("file.txt")
+# f = open("file.txt")
 
 # lines = f.readlines()
 # print(lines, type(lines))
@@ -17,6 +17,15 @@ f = open("file.txt")
 
 # line5 = f.readline()
 # print(line5 =="")
+# line = f.readline()
+# while(line != ""):
+#     print(line)
+#     line = f.readline()
+
+# f.close()
+
+f = open("file1.txt")
+
 line = f.readline()
 while(line != ""):
     print(line)
